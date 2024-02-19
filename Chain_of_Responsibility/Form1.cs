@@ -16,17 +16,12 @@ namespace Chain_of_Responsibility
         {
             InitializeComponent();
         }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
+        Bot bot = new Bot();
+        Operator operat = new Operator();
+        Geek geek = new Geek();
         private void button1_Click(object sender, EventArgs e)
         {
-            var bot = new Bot();
-            var operat = new Operator();
-            var geek = new geek();
+           
 
             bot.SetNext(operat).SetNext(geek);
             if (bot.Handle(textBox2.Text) != null)

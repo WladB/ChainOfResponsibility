@@ -26,10 +26,15 @@ namespace Chain_of_Responsibility
     public class Bot : BaseHandler {
         public override object Handle(string request)
         {
-            if (request.Contains("у мене не працює"))
+            if (request.Contains("не працює"))
             {
-                return $"Спробуйте вимкнути та увімкнути знову { request.Substring(request.IndexOf("у мене не працює") + 17)}";
+                return $"Спробуйте вимкнути та увімкнути знову { request.Substring(request.IndexOf("не працює") + 10)}";
       
+            }
+            if (request.Contains("не вмикається"))
+            {
+                return $"Спробуйте вимкнути та увімкнути знову живлення у { request.Substring(request.IndexOf("не вмикається") + 13)}";
+
             }
             else
             {
@@ -44,8 +49,11 @@ namespace Chain_of_Responsibility
         {
             if (request.Contains("мені не допомогло"))
             {
-                return $"Спробуйте ще раз { request.Substring(request.LastIndexOf("мені не допомогло") + 17)}";
+                return $"Спробуйте ще раз { request.Substring(request.LastIndexOf("мені не допомогло") + 18)}";
 
+            }
+            else if (request.Contains("не допомагає")) {
+                return $"Спробуйте ще раз { request.Substring(request.LastIndexOf("не допомагає") + 13)}";
             }
             else
             {
@@ -54,13 +62,13 @@ namespace Chain_of_Responsibility
         }
 
     }
-    public class geek : BaseHandler
+    public class Geek : BaseHandler
     {
         public override object Handle(string request)
         {
-            if (request.Contains("мені це також не допомогло"))
+            if (request.Contains("також не допомогло"))
             {
-                return $"Спробуйте щось окрім цього: { request.Substring(request.LastIndexOf("мені це також не допомогло") + 27)}";
+                return $"Спробуйте щось окрім цього: { request.Substring(request.LastIndexOf("також не допомогло") + 19)}";
 
             }
             else

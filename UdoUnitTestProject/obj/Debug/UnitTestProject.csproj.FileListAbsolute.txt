@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Chain_of_Responsibility\UdoUnitTestProject\bin\Debug\UdoUnitTestProject.dll
+C:\Users\User\source\repos\Chain_of_Responsibility\UdoUnitTestProject\bin\Debug\UdoUnitTestProject.pdb
+C:\Users\User\source\repos\Chain_of_Responsibility\UdoUnitTestProject\bin\Debug\Chain_of_Responsibility.exe
+C:\Users\User\source\repos\Chain_of_Responsibility\UdoUnitTestProject\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\User\source\repos\Chain_of_Responsibility\UdoUnitTestProject\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\User\source\repos\Chain_of_Responsibility\UdoUnitTestProject\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\User\source\repos\Chain_of_Responsibility\UdoUnitTestProject\bin\Debug\Microsoft.Analytics.UnitTest.dll
+C:\Users\User\source\repos\Chain_of_Responsibility\UdoUnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\source\repos\Chain_of_Responsibility\UdoUnitTestProject\bin\Debug\Chain_of_Responsibility.pdb
+C:\Users\User\source\repos\Chain_of_Responsibility\UdoUnitTestProject\bin\Debug\Chain_of_Responsibility.exe.config
+C:\Users\User\source\repos\Chain_of_Responsibility\UdoUnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\User\source\repos\Chain_of_Responsibility\UdoUnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Chain_of_Responsibility\UdoUnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Chain_of_Responsibility\UdoUnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\User\source\repos\Chain_of_Responsibility\UdoUnitTestProject\obj\Debug\UdoUnitTestProject.dll
+C:\Users\User\source\repos\Chain_of_Responsibility\UdoUnitTestProject\obj\Debug\UdoUnitTestProject.pdb
